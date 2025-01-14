@@ -110,10 +110,10 @@
         text-shadow: 10px 5px 10px darkred;
     }
     a:link{ 
-      color:red  
+      color:white 
     }
     a:visited{ 
-        color:green
+        color:red
     }
     a:hover{
         color:rgb(255, 255, 255)
